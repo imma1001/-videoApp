@@ -24,8 +24,8 @@ This is a **video-sharing Youtube application** built using **React Native** and
 ### 1️⃣ **Clone the Repository**
 
 ```sh
-git clone https://github.com/imma1001/videoapp.git
-cd videoapp
+git clone https://github.com/imma1001/-videoApp.git
+cd -videoApp
 ```
 
 ### 2️⃣ **Install Dependencies**
